@@ -19,6 +19,7 @@
 ## ✨ Sobre mim
 
 - 🎓 Estudante de Tecnólogo em Sistemas para Internet no [IFSUL](https://www.ifsul.edu.br/)
+- 🛠️ Técnico em informática - IFSUL
 - 💻 Apaixonado por desenvolvimento web moderno
 - 🛠️ Conhecimento em **Clean Code**, **Design Patterns** e **Next.js**
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
@@ -40,19 +41,19 @@
 
 ## 📂 Meus Projetos
 
-- [**Armazém Girassol - E-commerce**](https://github.com/MiguelLewandowski/armazem-girassol-ecommerce)  
+- [**Armazém Girassol - E-commerce**](https://github.com/MiguelLewandowski/armazem-girassol)  
   E-commerce especializado em produtos naturais, com foco em usabilidade, navegação fluida e design responsivo.
 
-- [**Renova RS**](https://github.com/MiguelLewandowski/renova-rs)  
+- [**Renova RS**](https://github.com/MiguelLewandowski/renovars)  
   Plataforma de economia circular para apoiar a recuperação econômica do RS após as enchentes.
 
-- [**Octohub - Landing Page**](https://github.com/MiguelLewandowski/octohub-landing)  
+- [**Octohub - Landing Page**](https://github.com/MiguelLewandowski/octohub)  
   Landing page moderna para a agência digital Octohub, focada em design clean e impactante.
 
-- [**Psicóloga Karine Strapazon - Landing Page**](https://github.com/MiguelLewandowski/psicologa-karine-strapazon)  
+- [**Psicóloga Karine Strapazon - Landing Page**](https://github.com/MiguelLewandowski/psicokarinestrapazon)  
   Página institucional profissional para apresentação dos serviços da psicóloga Karine Strapazon, com design acolhedor e navegação fluída.
 
-- [**Magazord - Teste Técnico**](https://github.com/MiguelLewandowski/magazord-teste)  
+- [**Magazord - Teste Técnico**](https://github.com/MiguelLewandowski/magazord)  
   Projeto de teste técnico focado em performance, boas práticas de desenvolvimento e responsividade.
 
 ---
@@ -68,8 +69,8 @@
 
 ## 📫 Contato
 
-- Email: **seu-email@dominio.com**
-- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario)
+- Email: **miguelstrapazonl@gmail.com**
+- LinkedIn: [linkedin.com/in/MiguelLewandowski](https://www.linkedin.com/in/MiguelLewandowski)
 
 ---
 
