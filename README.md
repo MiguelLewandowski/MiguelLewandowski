@@ -50,7 +50,7 @@
 - [**Octohub - Landing Page**](https://github.com/MiguelLewandowski/octohub)  
   Landing page moderna para a agência digital Octohub, focada em design clean e impactante.
 
-- [**Psicóloga Karine Strapazon - Landing Page**](https://github.com/MiguelLewandowski/psicokarinestrapazon)  
+- [**Psicóloga Karine Strapazon - Landing Page**](https://github.com/MiguelLewandowski/psicokarine)  
   Página institucional profissional para apresentação dos serviços da psicóloga Karine Strapazon, com design acolhedor e navegação fluída.
 
 - [**Magazord - Teste Técnico**](https://github.com/MiguelLewandowski/magazord)  
