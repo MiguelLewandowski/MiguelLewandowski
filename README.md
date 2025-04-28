@@ -1,41 +1,79 @@
-👋 Olá, eu sou Miguel Lewandowski!
-Desenvolvedor Web Fullstack apaixonado por criar soluções que geram impacto real.
-Transformando ideias em aplicações modernas com Next.js & Node.js.
+<h1 align="center">Miguel Lewandowski</h1>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Miguel%20Lewandowski&fontSize=40&fontColor=FFFFFF" /> </div>
-🚀 Sobre Mim
-🎯 Foco principal em Desenvolvimento Web com Next.js e Node.js
+<p align="center">
+  🌟 Desenvolvedor Front-end & Estudante de Sistemas para Internet no <strong>IFSUL</strong> 🌟
+</p>
 
-🛠️ Experiência em E-commerces, Sites Institucionais e Sistemas Web Personalizados
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=zustand&logoColor=ffffff"/>
+</p>
 
-🎓 Em constante evolução em Arquitetura de Software, Design Patterns e Boas Práticas de Código
+---
 
-🧠 Defensor da qualidade de código, escalabilidade e performance
+## ✨ Sobre mim
 
-🛠️ Tecnologias e Ferramentas
-<div align="center" style="display: flex; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=nextdotjs&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=nodedotjs&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/TailwindCSS-0A192F?style=for-the-badge&logo=tailwind-css&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Vercel-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" /> </div>
-📚 Atualmente Estudando
-🔥 SOLID Principles para projetos escaláveis
+- 🎓 Estudante de Tecnólogo em Sistemas para Internet no [IFSUL](https://www.ifsul.edu.br/)
+- 💻 Apaixonado por desenvolvimento web moderno
+- 🛠️ Conhecimento em **Clean Code**, **Design Patterns** e **Next.js**
+- 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 
-📐 Design Patterns (GoF) para padronizar soluções
+---
 
-⚙️ Arquitetura de APIs e Microsserviços para sistemas robustos
+## 🛠️ Tecnologias e Ferramentas
 
-🌟 Projetos em Destaque
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-Projeto	Descrição
-🧠 E-commerce Armazem Girassol	Plataforma completa de vendas online
-🚀 RenovaRS	Plataforma de economia circular focada em recuperação econômica
-📈 Estatísticas GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelLewandowski&show_icons=true&theme=tokyonight&bg_color=0A192F&title_color=64FFDA&text_color=FFFFFF&icon_color=64FFDA" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLewandowski&layout=compact&theme=tokyonight&bg_color=0A192F&title_color=64FFDA&text_color=FFFFFF&icon_color=64FFDA" /> </div>
-🔥 Minhas Conquistas Recentes
-🏆 Finalista no processo seletivo da IT Academy Edição #22
+---
 
-📈 Entrega contínua de projetos de alto nível para clientes locais e online
+## 📂 Meus Projetos
 
-🚀 Evoluindo minhas skills de Fullstack para Especialista Frontend
+- [**Armazém Girassol - E-commerce**](https://github.com/MiguelLewandowski/armazem-girassol-ecommerce)  
+  E-commerce especializado em produtos naturais, com foco em usabilidade, navegação fluida e design responsivo.
 
-📫 Onde me Encontrar
-<div align="center"> <a href="https://www.linkedin.com/in/miguellewandowski/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" /> </a> <a href="mailto:miguelstrapazonl@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" /> </a> </div>
-🧠 Filosofia de Código
-"Coding is not just typing... it's thinking clearly." 💭
+- [**Renova RS**](https://github.com/MiguelLewandowski/renova-rs)  
+  Plataforma de economia circular para apoiar a recuperação econômica do RS após as enchentes.
+
+- [**Octohub - Landing Page**](https://github.com/MiguelLewandowski/octohub-landing)  
+  Landing page moderna para a agência digital Octohub, focada em design clean e impactante.
+
+- [**Psicóloga Karine Strapazon - Landing Page**](https://github.com/MiguelLewandowski/psicologa-karine-strapazon)  
+  Página institucional profissional para apresentação dos serviços da psicóloga Karine Strapazon, com design acolhedor e navegação fluída.
+
+- [**Magazord - Teste Técnico**](https://github.com/MiguelLewandowski/magazord-teste)  
+  Projeto de teste técnico focado em performance, boas práticas de desenvolvimento e responsividade.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelLewandowski&show_icons=true&theme=blueberry&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLewandowski&layout=compact&theme=blueberry&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- Email: **seu-email@dominio.com**
+- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario)
+
+---
+
+
+
+</div>
+
