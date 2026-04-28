@@ -1,80 +1,74 @@
 <h1 align="center">Miguel Lewandowski</h1>
 
 <p align="center">
-  🌟 Desenvolvedor Front-end & Estudante de Sistemas para Internet no <strong>IFSUL</strong> 🌟
+  <strong>Desenvolvedor Full Stack | React • Next.js • NestJS</strong><br>
+  Focado em código limpo, testes automatizados e soluções escaláveis.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=zustand&logoColor=ffffff"/>
+  <a href="https://www.linkedin.com/in/MiguelLewandowski" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:miguelstrapazonl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## ✨ Sobre mim
+## 👨‍💻 Sobre Mim
 
-- 🎓 Estudante de Tecnólogo em Sistemas para Internet no [IFSUL](https://www.ifsul.edu.br/)
-- 🛠️ Técnico em informática - IFSUL
-- 💻 Apaixonado por desenvolvimento web moderno
-- 🛠️ Conhecimento em **Clean Code**, **Design Patterns** e **Next.js**
-- 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+Sou **Técnico em Informática** e graduando em **Sistemas para Internet no IFSUL**. Como desenvolvedor Full Stack, busco criar aplicações que unam uma experiência de usuário fluida com arquiteturas de backend sólidas e testadas.
+
+- 🚀 Domínio em **React**, **Next.js** e **NestJS**.
+- 🧪 Comprometido com a qualidade: aplicação de princípios **SOLID** e testes com **Jest**.
+- 🛠️ Experiência com gerenciamento de estado complexo usando **Zustand**.
+- 🤖 Atualmente explorando **Inteligência Artificial** e arquiteturas **RAG**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
+### 🌐 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Quality
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Meus Projetos
+## 📂 Projetos em Destaque
 
-- [**Armazém Girassol - E-commerce**](https://github.com/MiguelLewandowski/armazem-girassol)  
-  E-commerce especializado em produtos naturais, com foco em usabilidade, navegação fluida e design responsivo.
-
-- [**Renova RS**](https://github.com/MiguelLewandowski/renovars)  
-  Plataforma de economia circular para apoiar a recuperação econômica do RS após as enchentes.
-
-- [**Octohub - Landing Page**](https://github.com/MiguelLewandowski/octohub)  
-  Landing page moderna para a agência digital Octohub, focada em design clean e impactante.
-
-- [**Psicóloga Karine Strapazon - Landing Page**](https://github.com/MiguelLewandowski/psicokarine)  
-  Página institucional profissional para apresentação dos serviços da psicóloga Karine Strapazon, com design acolhedor e navegação fluída.
-
-- [**Magazord - Teste Técnico**](https://github.com/MiguelLewandowski/magazord)  
-  Projeto de teste técnico focado em performance, boas práticas de desenvolvimento e responsividade.
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| [**MIRC Hackathon 2025**](https://github.com/MiguelLewandowski/MIRC_Hackathon2025) | Projeto desenvolvido para competição de inovação. | `Full Stack`, `Innovation` |
+| [**DEPS Models**](https://github.com/MiguelLewandowski/deps-models) | Estruturação e modelagem de dados avançada. | `TypeScript`, `Architecture` |
+| [**Armazém Girassol**](https://github.com/MiguelLewandowski/LojaVirtualArmazemGirassol) | E-commerce completo com gestão de estado e UX moderna. | `Next.js`, `Zustand`, `Tailwind` |
+| [**Chess Openings**](https://github.com/MiguelLewandowski/chess-openings) | Aplicação para estudo de aberturas de xadrez. | `React`, `Lógica`, `UI` |
+| [**Consultoria de TI**](https://github.com/MiguelLewandowski/sistemaDeConsultoriaDeTI) | Sistema de gestão de fluxo para consultores técnicos. | `Node.js`, `FullStack` |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelLewandowski&show_icons=true&theme=blueberry&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLewandowski&layout=compact&theme=blueberry&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelLewandowski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLewandowski&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 📫 Contato
-
-- Email: **miguelstrapazonl@gmail.com**
-- LinkedIn: [linkedin.com/in/MiguelLewandowski](https://www.linkedin.com/in/MiguelLewandowski)
-
----
-
-
-
+<div align="center">
+  <sub>Graduando em Sistemas para Internet - IFSUL | Técnico em Informática</sub>
 </div>
-
