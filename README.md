@@ -52,6 +52,7 @@ Sou **Técnico em Informática** e graduando em **Sistemas para Internet no IFSU
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
+| [**ColabPlus**](https://github.com/MiguelLewandowski/colabPlus) | Plataforma para colaboração e produtividade. | `Full Stack`, `Productivity` |
 | [**MIRC Hackathon 2025**](https://github.com/MiguelLewandowski/MIRC_Hackathon2025) | Projeto desenvolvido para competição de inovação. | `Full Stack`, `Innovation` |
 | [**DEPS Models**](https://github.com/MiguelLewandowski/deps-models) | Estruturação e modelagem de dados avançada. | `TypeScript`, `Architecture` |
 | [**Armazém Girassol**](https://github.com/MiguelLewandowski/LojaVirtualArmazemGirassol) | E-commerce completo com gestão de estado e UX moderna. | `Next.js`, `Zustand`, `Tailwind` |
