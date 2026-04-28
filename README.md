@@ -52,12 +52,12 @@ Sou **Técnico em Informática** e graduando em **Sistemas para Internet no IFSU
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| [**ColabPlus**](https://github.com/MiguelLewandowski/colabPlus) | Plataforma para colaboração e produtividade. | `Full Stack`, `Productivity` |
+| [**ColabPlus**](https://github.com/MiguelLewandowski/colabPlus) | Plataforma de gestão de RH. | `Nest`, `React` |
 | [**MIRC Hackathon 2025**](https://github.com/MiguelLewandowski/MIRC_Hackathon2025) | Projeto desenvolvido para competição de inovação. | `Full Stack`, `Innovation` |
-| [**DEPS Models**](https://github.com/MiguelLewandowski/deps-models) | Estruturação e modelagem de dados avançada. | `TypeScript`, `Architecture` |
-| [**Armazém Girassol**](https://github.com/MiguelLewandowski/LojaVirtualArmazemGirassol) | E-commerce completo com gestão de estado e UX moderna. | `Next.js`, `Zustand`, `Tailwind` |
-| [**Chess Openings**](https://github.com/MiguelLewandowski/chess-openings) | Aplicação para estudo de aberturas de xadrez. | `React`, `Lógica`, `UI` |
-| [**Consultoria de TI**](https://github.com/MiguelLewandowski/sistemaDeConsultoriaDeTI) | Sistema de gestão de fluxo para consultores técnicos. | `Node.js`, `FullStack` |
+| [**DEPS Models**](https://github.com/MiguelLewandowski/deps-models) | Landing Page da minha software house. | `Next.js`, `React` |
+| [**Armazém Girassol**](https://github.com/MiguelLewandowski/LojaVirtualArmazemGirassol) | E-commerce completo com gestão de estado e UX moderna. | `Next.js`, `Tailwind` |
+| [**Chess Openings**](https://github.com/MiguelLewandowski/chess-openings) | Aplicação para estudo de aberturas de xadrez com repetição espaçada. | `React`, `Lógica`, `UI` |
+| [**Consultoria de TI**](https://github.com/MiguelLewandowski/sistemaDeConsultoriaDeTI) | Sistema de gestão de fluxo para consultorias de TI. | `Node.js`, `FullStack` |
 
 ---
 
